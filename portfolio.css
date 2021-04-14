@@ -1,9 +1,11 @@
 .aboutme {
     min-height: 90vh;
-    background: url(/images/backgroundpic.jpg);
+    background: url("images/backgroundpic.jpg");
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 /* profilio html */
 .Profile{
@@ -31,3 +33,5 @@ main {
 }
 
 /* contact html */
+
+/* navbar  */
