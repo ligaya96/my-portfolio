@@ -1,0 +1,33 @@
+.aboutme {
+    min-height: 90vh;
+    background: url(/images/backgroundpic.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* profilio html */
+.Profile{
+    background-color: darkturquoise;
+}
+.links{
+  margin: auto;
+  width: 50%;
+  border: 3px solid lightgreen;
+  padding: 10px;
+}
+.resume{
+  background-color: darkblue;
+}
+
+/* index html */
+main {
+    background-color: bisque;
+    }
+.text-center {
+      margin: auto;
+      width: 60%;
+      padding: 10px;
+      border: 3px 
+}
+
+/* contact html */

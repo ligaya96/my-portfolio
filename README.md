@@ -1,2 +1,16 @@
 # my-portfolio
-In this weeks homework, We were asked make our very first mobile responsive Portilio page using Bootstrap CSS Framework. I wanted to make this portilio as professional and personal as I can, so i did use personal pictures and information. I do hope to keep adding more to my portiflio as I grow as a Coder. I worked on the semenatics, and as well as adding a Navbar from Bootstrap. I do feel like my containters, rows, and columns can be worked on, but i tried my best on using the grid systems to the best of my abilities. I was able to get all my html pages layout mobile responsive, as well as my pictures. 
+As I continue to grow as a full stack developer, So will my portfolio. I have inlcuded links to various projects i am proud of and will continue to update links. My professional resume is included in my professional profile. 
+
+# Links 
+<li>
+ LinkedIn
+ <a href= "https://www.linkedin.com/in/ligaya-herndon-phb9881b9/" target="_blank">My LinkedIn</a>
+ Github
+  <a href= "https://github.com/ligaya96/my-portfolio"  target="_blank">My Github Profilio</a>
+ Resume 
+  <a href=" https://docs.google.com/document/d/e/2PACX-1vTdb9O7rTmuCsi_Cm7UGczAb86i6SmPU41J8RExQMfqY-gFnJ3om392lloL1AV8zQ/pub" target="_blank">Ligaya Resume!</a>
+<li>
+
+# Author
+Ligaya Herndon 
+# ScreenShot
