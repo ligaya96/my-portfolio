@@ -29,9 +29,31 @@ main {
       margin: auto;
       width: 60%;
       padding: 10px;
-      border: 3px 
+      border: 3px;
+}
+.text {
+  font-size: 1.5rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+  color: crimson;
 }
 
 /* contact html */
+.contactinfo{
+  background: beige;
+}
 
 /* navbar  */
+nav {
+ background-color: aqua;
+ min-height: 10vh;
+ font-size: 1.5rem;
+}
+/* .navbar-nav {
+  font-size: 1.5rem;
+  background: aquamarine;
+} */

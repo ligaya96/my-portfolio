@@ -8,7 +8,7 @@ As I continue to grow as a full stack developer, So will my portfolio. I have in
  Github
   <a href= "https://github.com/ligaya96/my-portfolio"  target="_blank">My Github Profilio</a>
  Resume 
-  <a href=" https://docs.google.com/document/d/e/2PACX-1vTdb9O7rTmuCsi_Cm7UGczAb86i6SmPU41J8RExQMfqY-gFnJ3om392lloL1AV8zQ/pub" target="_blank">Ligaya Resume!</a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vR24OG8mhziDC_sKqI7FsoV3uJpG12VewiwIDL1sYATd64uZpuM4VuS1GTVn3EdP-tGtYdhNsV8c2nQ/pub?embedded=true" target="_blank">Ligaya Resume!</a>
 <li>
 
 # Author
