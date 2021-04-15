@@ -24,12 +24,16 @@
 /* index html */
 main {
     background-color: bisque;
-    }
+}
 .text-center {
       margin: auto;
       width: 60%;
       padding: 10px;
-      border: 3px;
+      border: 3px
+}
+.pictureofme{
+  height: 250px;
+  width: 250px;
 }
 .text {
   font-size: 1.5rem;
