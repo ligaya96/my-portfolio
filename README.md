@@ -7,7 +7,7 @@ As I continue to grow as a full stack developer, So will my portfolio. I have in
  LinkedIn: <a href= "https://www.linkedin.com/in/ligaya-herndon-phb9881b9/" target="_blank">My LinkedIn</a>
  </li>
  <li>
- Github : <a href= "https://github.com/ligaya96/my-portfolio"  target="_blank">My Github Profilio</a>
+ Github : <a href= "https://ligaya96.github.io/my-portfolio/"  target="_blank">My Github Profilio</a>
  </li>
  <li>
  Resume : <a href="https://docs.google.com/document/d/e/2PACX-1vR24OG8mhziDC_sKqI7FsoV3uJpG12VewiwIDL1sYATd64uZpuM4VuS1GTVn3EdP-tGtYdhNsV8c2nQ/pub?embedded=true" target="_blank">Ligaya Resume!</a>
