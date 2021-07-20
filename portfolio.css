@@ -7,6 +7,16 @@
     align-items: center;
     flex-direction: column;
 }
+.center {
+  text-emphasis: bold;
+  color: white;
+}
+.cards {
+  align-items: center;
+  display: block;
+  margin:auto
+}
+
 /* profilio html */
 .Profile{
     background-color: darkturquoise;
@@ -18,7 +28,9 @@
   padding: 10px;
 }
 .resume{
-  background-color: darkblue;
+  background-color: darkturquoise;
+  text-align: center;
+  text-emphasis: bold;
 }
 
 /* index html */
