@@ -12,6 +12,7 @@
   color: white;
 }
 .cards {
+  background-color: dodgerblue;
   align-items: center;
   display: block;
   margin:auto
@@ -36,6 +37,8 @@
 /* index html */
 main {
     background-color: bisque;
+    align-items: flex-start;
+
 }
 .text-center {
       margin: auto;
