@@ -7,17 +7,6 @@
     align-items: center;
     flex-direction: column;
 }
-.center {
-  text-emphasis: bold;
-  color: white;
-}
-.cards {
-  background-color: dodgerblue;
-  align-items: center;
-  display: block;
-  margin:auto
-}
-
 /* profilio html */
 .Profile{
     background-color: darkturquoise;
@@ -33,7 +22,19 @@
   text-align: center;
   text-emphasis: bold;
 }
-
+.center {
+  text-emphasis: bold;
+  color: white;
+}
+.cards {
+  display: block;
+  margin:auto
+}
+.card{
+  padding: .5rem;
+  border-radius: 3rem;
+  padding-bottom: 3rem;
+}
 /* index html */
 main {
     background-color: bisque;
@@ -65,6 +66,9 @@ main {
 .contactinfo{
   background: beige;
 }
+.list-group{
+  background-color: gold;
+}
 
 /* navbar  */
 nav {
@@ -72,7 +76,3 @@ nav {
  min-height: 10vh;
  font-size: 1.5rem;
 }
-/* .navbar-nav {
-  font-size: 1.5rem;
-  background: aquamarine;
-} */
