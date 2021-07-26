@@ -7,28 +7,10 @@
     align-items: center;
     flex-direction: column;
 }
-/* profilio html */
-.Profile{
-    background-color: darkturquoise;
-}
-.links{
-  margin: auto;
-  width: 50%;
-  border: 3px solid lightgreen;
-  padding: 10px;
-}
-.resume{
-  background-color: darkturquoise;
-  text-align: center;
-  text-emphasis: bold;
-}
+/* protfilio html */
 .center {
   text-emphasis: bold;
-  color: white;
-}
-.cards {
-  display: block;
-  margin:auto
+  color: darkviolet;
 }
 .card{
   padding: .5rem;
@@ -36,11 +18,6 @@
   padding-bottom: 3rem;
 }
 /* index html */
-main {
-    background-color: bisque;
-    align-items: flex-start;
-
-}
 .divSpace {
   height: 8rem;
 }
@@ -68,10 +45,7 @@ main {
 
 /* contact html */
 .contactinfo{
-  background: beige;
-}
-.list-group{
-  background-color: gold;
+  background: burlywood;
 }
 
 /* navbar  */
