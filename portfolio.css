@@ -41,6 +41,9 @@ main {
     align-items: flex-start;
 
 }
+.divSpace {
+  height: 8rem;
+}
 .text-center {
       margin: auto;
       width: 60%;
@@ -48,8 +51,9 @@ main {
       border: 3px
 }
 .pictureofme{
-  height: 250px;
-  width: 250px;
+  padding-bottom: 2rem;
+  height: 28px;
+  width: 28px;
 }
 .text {
   font-size: 1.5rem;
