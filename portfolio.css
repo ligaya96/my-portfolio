@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .aboutme {
     min-height: 90vh;
     background: url("images/backgroundpic.jpg");
@@ -55,5 +59,9 @@ nav {
   padding: 1 rem;
   display : block;
   position: relative;
-  
+}
+h1{
+  background-color: antiquewhite;
+  /* position: center; */
+  position: relative;
 }
