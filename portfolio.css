@@ -9,8 +9,9 @@
 }
 /* protfilio html */
 .center {
-  text-emphasis: bold;
-  color: darkgreen;
+  font: 300;
+  color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .card{
   padding: .5rem;
@@ -43,14 +44,16 @@
   color: yellow;
 }
 
-/* contact html */
-.contactinfo{
-  background: burlywood;
-}
-
 /* navbar  */
 nav {
  background-color: aqua;
  min-height: 10vh;
  font-size: 1.5rem;
+}
+.list-group {
+  background-color: aqua;
+  padding: 1 rem;
+  display : block;
+  position: relative;
+  
 }
