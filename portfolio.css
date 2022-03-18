@@ -14,10 +14,11 @@
 /* protfilio html */
 .center {
   font: 300;
-  color: yellow;
+  color: blue;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .card{
+  background-color: aqua;
   padding: .5rem;
   border-radius: 3rem;
   padding-bottom: 3rem;
