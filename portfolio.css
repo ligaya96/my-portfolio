@@ -13,6 +13,7 @@
 }
 /* protfilio html */
 .center {
+  background-color: whitesmoke;
   font: 300;
   color: blue;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -46,7 +47,7 @@
   justify-content: center;
   flex-direction: column;
   overflow: hidden;
-  color: yellow;
+  color:  yellow;
 }
 
 /* navbar  */
